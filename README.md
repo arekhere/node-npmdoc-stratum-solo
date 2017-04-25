@@ -1,4 +1,7 @@
-# api documentation for  [stratum-solo (v0.0.1)](https://github.com/pocesar/node-stratum-solo)  [![npm package](https://img.shields.io/npm/v/npmdoc-stratum-solo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-stratum-solo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-stratum-solo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-stratum-solo)
+# npmdoc-stratum-solo
+
+#### basic api documentation for  [stratum-solo (v0.0.1)](https://github.com/pocesar/node-stratum-solo)  [![npm package](https://img.shields.io/npm/v/npmdoc-stratum-solo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-stratum-solo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-stratum-solo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-stratum-solo)
+
 #### SHA256 coins (like Bitcoin) and Scrypt coins (like Litecoin) centralized solo mining pool. This "pool" just do the routing between daemons and the miners.
 
 [![NPM](https://nodei.co/npm/stratum-solo.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stratum-solo)
@@ -53,7 +56,8 @@
         "type": "git",
         "url": "git+ssh://git@github.com/pocesar/node-stratum-solo.git"
     },
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "bin": {}
 }
 ```
 
